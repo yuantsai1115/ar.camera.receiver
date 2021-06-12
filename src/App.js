@@ -10,7 +10,7 @@ function App() {
   const [isWebsocketConnected, setIsWebsocketConnected] = useState(false);
 
   let addCameraPosition = (viewer, text, position, description, options) => {
-    let location = new THREE.Vector3(-position.x, -position.y, -position.z);
+    let location = new THREE.Vector3(position.x, -position.z, 1.5);//position.y);
     viewer.addTag(text, location, options, () => {
       viewer.showDialog("Information", `You clicked <strong>${description}</strong>`, "Close", null, null, true);
     });
