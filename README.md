@@ -20,7 +20,7 @@ Real-time data exchange between site engineers and officers is essential yet sev
 | *Research gaps for mixed collaboration* |
 
 ## Possibilities
-The office can be a situation room which accommodates all the live data from multiple site engieers. Also, the officers can send information or commands to site engineers by AR camera on mobile. The information then is displayed on the physical position. On the other hand, the site engineers can also do the measurement and show the result on BIM model for officers. It can benefit the remote communication and collaboration especially for the geographical limitation scenarios.
+The office can be a situation room which accommodates all the live data from multiple site engieers on the BIM model. Also, the officers can send information or commands to site engineers by AR camera on mobile. The information then is displayed on the physical position. On the other hand, the site engineers can also do the measurement and show the result on BIM model for officers. It can benefit the remote communication and collaboration especially for the geographical limitation scenarios.
 
 | <img src="https://user-images.githubusercontent.com/119405090/218685044-a53f42b7-0805-4f39-a4a7-65114df3da92.jpg" width="600"> |
 |:--:|
