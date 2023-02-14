@@ -1,7 +1,7 @@
 # AR Camera for Mixed Collaboration - Receiver
 
 ## Introduction
-A proof of concept for mixed collaboration between site engineers and officers. Site engieers can stream live location to the BIM model with mobile application. Then, the officers view the live location of site engineers on BIM model with receiver application. This help the site engieers and officers remotely collaborate which benefits the construction management as most experienced engineers and officers need to look after multiple sites. 
+It is a proof of concept for mixed collaboration between site engineers and officers. Site engieers can stream live location to the BIM model with mobile application. Then, the officers view the live location of site engineers on BIM model with receiver application. This help the site engieers and officers remotely collaborate which benefits the construction management as most experienced engineers and officers need to look after multiple sites. 
 
 | <video src="https://user-images.githubusercontent.com/119405090/218675712-1654923e-1d4c-4b18-9b0a-0816db121409.mp4"> |  <video src="https://user-images.githubusercontent.com/119405090/218676350-b36db086-cb4b-45ca-ba04-26085498ae35.mp4"> | 
 |:--:| :--:| 
